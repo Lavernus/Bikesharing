@@ -5,7 +5,7 @@ Investors in Des Moines, Iowa are interested in the potential of a possible bike
 ### Purpose
 Using Tableau, I will create multiple graphs visualizing the performance of a bike sharing company in NYC. Investors will be able to use these to make a prediction on how profitable a bike sharing company would be in their own city.
 ## Results
-Citi Bikes, located in NYC, is an analagous business to the one being proposed to the investors. Using their data from August of 2019, we can begin to see the overall performance of their bikes which could inform us on how our own would behave. 
+Citi Bikes, located in NYC, is an analogous business to the one being proposed to the investors. Using their data from August of 2019, we can begin to see the overall performance of their bikes which could inform us on how our own would behave. 
 ### Peak Performance Hours
 ![Peak_Hours.png](https://github.com/Lavernus/Bikesharing/blob/main/Images/Peak_Hours.png)
 
